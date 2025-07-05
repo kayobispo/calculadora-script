@@ -3,8 +3,8 @@
 . script_calculadora.sh
 
 
-# script-calculadora
+## script-calculadora
 Este script executa a calculadora, coleta dados e devolve os resultados.
 
-#calculadora-feature
+## calculadora-feature
 Este código calcula operações básicas (adição, subtração, multiplicação e divisão) usando Python.
